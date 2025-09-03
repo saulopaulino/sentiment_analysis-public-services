@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # sentiment_analysis-public-services
 Projeto de Extensão - Centro Universitário UniAméricas
 =======
+=======
+>>>>>>> 1f4199ea3e4401458342ff8e58a9a79b5ad60001
 ![Capa do Projeto](https://copilot.microsoft.com/th/id/BCO.0ffbf5fb-3767-4c9c-ad40-962e3db42f96.png)
 
 # 📊 Análise de Sentimentos em Reclamações Públicas
@@ -36,6 +39,7 @@ Criar um sistema que:
 ---
 
 ## 📁 Estrutura do Projeto
+<<<<<<< HEAD
 sentiment-analysis-public-services/ 
 ├── data/ 
 │   └── reclamacoes_simuladas.csv 
@@ -44,6 +48,9 @@ sentiment-analysis-public-services/
 |── preprocessing.py
 |── sentiment_analysis.py
 |── README.md
+=======
+sentiment-analysis-public-services/ ├── data/ │ ├── complaints.csv │ ├── complaints_clean.csv │ └── complaints_sentiment.csv ├── src/ │ ├── preprocessing.py │ ├── sentiment_analysis.py │ └── dashboard.py ├── requirements.txt └── README.md
+>>>>>>> 1f4199ea3e4401458342ff8e58a9a79b5ad60001
 
 ---
 
@@ -79,12 +86,15 @@ Tabela com reclamações e classificação
 
 Filtro por tipo de sentimento
 
+<<<<<<< HEAD
 ### 🔗 Acesse o projeto online
 
 Você pode visualizar o projeto rodando em tempo real aqui:  
 👉 [Streamlit App](https://sentimentanalysis-public-services.streamlit.app/)
 
 
+=======
+>>>>>>> 1f4199ea3e4401458342ff8e58a9a79b5ad60001
 🌍 Impacto Social
 Este projeto contribui para a escuta ativa da população e pode ser utilizado por prefeituras, ONGs e startups voltadas para cidades inteligentes. Ele transforma dados não estruturados em insights úteis para a gestão pública.
 
@@ -103,4 +113,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e com
 
 
 
+<<<<<<< HEAD
 >>>>>>> 1f4199e (Commit inicial do projeto de análise de sentimentos)
+=======
+>>>>>>> 1f4199ea3e4401458342ff8e58a9a79b5ad60001
