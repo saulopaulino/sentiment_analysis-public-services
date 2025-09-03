@@ -1,0 +1,101 @@
+texto,categoria,regiao,texto_limpo,sentimento
+Não recebi o valor prometido via CPF.,Financeiro,Nordeste,recebi valor prometido via cpf,neutro
+Site do INSS fora do ar há dias.,Previdência,Sul,site inss ar dias,neutro
+Ouvidoria não responde às denúncias.,Ouvidoria,Norte,ouvidoria responde s denúncias,neutro
+Não recebi o valor prometido via CPF.,Financeiro,Nordeste,recebi valor prometido via cpf,neutro
+Não consigo acessar o aplicativo do GovBR.,Acesso Digital,Centro-Oeste,consigo acessar aplicativo govbr,neutro
+Problemas com agendamento de atendimento.,Agendamento,Norte,problemas agendamento atendimento,neutro
+Falta de segurança no bairro.,Segurança,Norte,falta segurança bairro,neutro
+Barulho excessivo durante a madrugada.,Perturbação,Nordeste,barulho excessivo durante madrugada,neutro
+Demora no atendimento hospitalar.,Saúde,Nordeste,demora atendimento hospitalar,negativo
+Não recebi o valor prometido via CPF.,Financeiro,Sul,recebi valor prometido via cpf,neutro
+Barulho excessivo durante a madrugada.,Perturbação,Nordeste,barulho excessivo durante madrugada,neutro
+Esgoto a céu aberto sem solução.,Saneamento,Norte,esgoto céu aberto solução,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Sudeste,erro tentar consultar imposto renda,neutro
+Demora na liberação do benefício social.,Assistência Social,Sul,demora liberação benefício social,negativo
+Não consigo acessar o aplicativo do GovBR.,Acesso Digital,Sul,consigo acessar aplicativo govbr,neutro
+Ouvidoria não responde às denúncias.,Ouvidoria,Centro-Oeste,ouvidoria responde s denúncias,neutro
+Barulho excessivo durante a madrugada.,Perturbação,Norte,barulho excessivo durante madrugada,neutro
+Falta de segurança no bairro.,Segurança,Sul,falta segurança bairro,neutro
+Problemas com abastecimento de água.,Saneamento,Centro-Oeste,problemas abastecimento água,neutro
+Sistema não atualiza meu cadastro.,Cadastro,Nordeste,sistema atualiza cadastro,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Norte,erro tentar consultar imposto renda,neutro
+Sistema não atualiza meu cadastro.,Cadastro,Sudeste,sistema atualiza cadastro,neutro
+Demora no atendimento hospitalar.,Saúde,Centro-Oeste,demora atendimento hospitalar,negativo
+Minha conta foi bloqueada sem explicação.,Cadastro,Nordeste,conta bloqueada explicação,neutro
+Transporte público lotado e atrasado.,Transporte,Norte,transporte público lotado atrasado,neutro
+Demora no atendimento hospitalar.,Saúde,Centro-Oeste,demora atendimento hospitalar,negativo
+Reconhecimento facial falha no aplicativo.,Tecnologia,Sul,reconhecimento facial falha aplicativo,neutro
+Site do INSS fora do ar há dias.,Previdência,Sul,site inss ar dias,neutro
+Ouvidoria não responde às denúncias.,Ouvidoria,Sudeste,ouvidoria responde s denúncias,neutro
+Site do INSS fora do ar há dias.,Previdência,Sudeste,site inss ar dias,neutro
+Buracos na pista causam acidentes.,Infraestrutura,Norte,buracos pista causam acidentes,neutro
+Não consigo acessar o aplicativo do GovBR.,Acesso Digital,Sudeste,consigo acessar aplicativo govbr,neutro
+Não recebi o valor prometido via CPF.,Financeiro,Sudeste,recebi valor prometido via cpf,neutro
+Não consigo acessar o aplicativo do GovBR.,Acesso Digital,Sudeste,consigo acessar aplicativo govbr,neutro
+Coleta de lixo irregular na minha rua.,Limpeza Urbana,Sudeste,coleta lixo irregular rua,neutro
+Não recebi o valor prometido via CPF.,Financeiro,Norte,recebi valor prometido via cpf,neutro
+Esgoto a céu aberto sem solução.,Saneamento,Sul,esgoto céu aberto solução,neutro
+Problemas com abastecimento de água.,Saneamento,Sudeste,problemas abastecimento água,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Nordeste,erro tentar consultar imposto renda,neutro
+Coleta de lixo irregular na minha rua.,Limpeza Urbana,Norte,coleta lixo irregular rua,neutro
+Falta de iluminação em ruas perigosas.,Iluminação,Norte,falta iluminação ruas perigosas,neutro
+Site do INSS fora do ar há dias.,Previdência,Nordeste,site inss ar dias,neutro
+Problemas com agendamento de atendimento.,Agendamento,Sudeste,problemas agendamento atendimento,neutro
+Barulho excessivo durante a madrugada.,Perturbação,Centro-Oeste,barulho excessivo durante madrugada,neutro
+Site do INSS fora do ar há dias.,Previdência,Sudeste,site inss ar dias,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Sudeste,erro tentar consultar imposto renda,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Norte,erro tentar consultar imposto renda,neutro
+Fila enorme no posto de saúde.,Saúde,Sul,fila enorme posto saúde,neutro
+Falta de iluminação em ruas perigosas.,Iluminação,Centro-Oeste,falta iluminação ruas perigosas,neutro
+Demora no atendimento hospitalar.,Saúde,Norte,demora atendimento hospitalar,negativo
+Reconhecimento facial falha no aplicativo.,Tecnologia,Norte,reconhecimento facial falha aplicativo,neutro
+Problemas com abastecimento de água.,Saneamento,Centro-Oeste,problemas abastecimento água,neutro
+Problemas com abastecimento de água.,Saneamento,Sudeste,problemas abastecimento água,neutro
+Sistema não atualiza meu cadastro.,Cadastro,Nordeste,sistema atualiza cadastro,neutro
+Transporte público lotado e atrasado.,Transporte,Sul,transporte público lotado atrasado,neutro
+Buracos na pista causam acidentes.,Infraestrutura,Nordeste,buracos pista causam acidentes,neutro
+Demora no atendimento hospitalar.,Saúde,Sudeste,demora atendimento hospitalar,negativo
+Problemas com abastecimento de água.,Saneamento,Sul,problemas abastecimento água,neutro
+Minha conta foi bloqueada sem explicação.,Cadastro,Sudeste,conta bloqueada explicação,neutro
+Demora no atendimento hospitalar.,Saúde,Sudeste,demora atendimento hospitalar,negativo
+Transporte público lotado e atrasado.,Transporte,Nordeste,transporte público lotado atrasado,neutro
+Falta de segurança no bairro.,Segurança,Nordeste,falta segurança bairro,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Sul,erro tentar consultar imposto renda,neutro
+Problemas com abastecimento de água.,Saneamento,Sudeste,problemas abastecimento água,neutro
+Buracos na pista causam acidentes.,Infraestrutura,Sudeste,buracos pista causam acidentes,neutro
+Site do INSS fora do ar há dias.,Previdência,Nordeste,site inss ar dias,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Nordeste,erro tentar consultar imposto renda,neutro
+Não consigo acessar o aplicativo do GovBR.,Acesso Digital,Sul,consigo acessar aplicativo govbr,neutro
+Problemas com agendamento de atendimento.,Agendamento,Centro-Oeste,problemas agendamento atendimento,neutro
+Não consigo acessar o aplicativo do GovBR.,Acesso Digital,Sul,consigo acessar aplicativo govbr,neutro
+Sistema não atualiza meu cadastro.,Cadastro,Sudeste,sistema atualiza cadastro,neutro
+Falta de iluminação em ruas perigosas.,Iluminação,Sul,falta iluminação ruas perigosas,neutro
+Demora no atendimento hospitalar.,Saúde,Sudeste,demora atendimento hospitalar,negativo
+Transporte público lotado e atrasado.,Transporte,Sudeste,transporte público lotado atrasado,neutro
+Esgoto a céu aberto sem solução.,Saneamento,Sudeste,esgoto céu aberto solução,neutro
+Buracos na pista causam acidentes.,Infraestrutura,Centro-Oeste,buracos pista causam acidentes,neutro
+Demora na liberação do benefício social.,Assistência Social,Norte,demora liberação benefício social,negativo
+Site do INSS fora do ar há dias.,Previdência,Sul,site inss ar dias,neutro
+Demora na liberação do benefício social.,Assistência Social,Centro-Oeste,demora liberação benefício social,negativo
+Transporte público lotado e atrasado.,Transporte,Norte,transporte público lotado atrasado,neutro
+Reconhecimento facial falha no aplicativo.,Tecnologia,Norte,reconhecimento facial falha aplicativo,neutro
+Não consigo acessar o aplicativo do GovBR.,Acesso Digital,Centro-Oeste,consigo acessar aplicativo govbr,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Nordeste,erro tentar consultar imposto renda,neutro
+Fila enorme no posto de saúde.,Saúde,Sudeste,fila enorme posto saúde,neutro
+Falta de iluminação em ruas perigosas.,Iluminação,Norte,falta iluminação ruas perigosas,neutro
+Falta de iluminação em ruas perigosas.,Iluminação,Centro-Oeste,falta iluminação ruas perigosas,neutro
+Erro ao tentar consultar o imposto de renda.,Imposto de Renda,Centro-Oeste,erro tentar consultar imposto renda,neutro
+Sistema não atualiza meu cadastro.,Cadastro,Sul,sistema atualiza cadastro,neutro
+Problemas com agendamento de atendimento.,Agendamento,Norte,problemas agendamento atendimento,neutro
+Demora no atendimento hospitalar.,Saúde,Sudeste,demora atendimento hospitalar,negativo
+Falta de iluminação em ruas perigosas.,Iluminação,Nordeste,falta iluminação ruas perigosas,neutro
+Não recebi o valor prometido via CPF.,Financeiro,Norte,recebi valor prometido via cpf,neutro
+Falta de segurança no bairro.,Segurança,Norte,falta segurança bairro,neutro
+Não recebi o valor prometido via CPF.,Financeiro,Nordeste,recebi valor prometido via cpf,neutro
+Reconhecimento facial falha no aplicativo.,Tecnologia,Norte,reconhecimento facial falha aplicativo,neutro
+Esgoto a céu aberto sem solução.,Saneamento,Sul,esgoto céu aberto solução,neutro
+Problemas com agendamento de atendimento.,Agendamento,Centro-Oeste,problemas agendamento atendimento,neutro
+Problemas com agendamento de atendimento.,Agendamento,Nordeste,problemas agendamento atendimento,neutro
+Demora no atendimento hospitalar.,Saúde,Nordeste,demora atendimento hospitalar,negativo
+Coleta de lixo irregular na minha rua.,Limpeza Urbana,Norte,coleta lixo irregular rua,neutro
